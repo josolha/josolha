@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SOLHA&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SOLHA's GitHub&fontSize=90" />
 
 
 **josolha/josolha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
