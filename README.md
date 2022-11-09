@@ -1,5 +1,7 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFFF,100:FFFFFFFF&height=200&section=header&text=Solha's%20Github!&fontSize=90" />	
+
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFFFFFF&height=300&section=header&text=Solha's%20GitHub&fontSize=90&animation=fadeIn&fontAlignY=38&desc=back-end&descAlignY=57&descAlign=72.5)
+
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
