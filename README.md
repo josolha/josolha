@@ -50,7 +50,7 @@
 	<a href="https://josolha.tistory.com">
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 	</a>
-	<a href="mailto:admin@yermi.co.kr">
+	<a href="mailto:josolha@naver.com">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
 	<a href="https://mango-vegetarian-429.notion.site/cbd77ec48a7d4f94a324ac635dfdb720">
