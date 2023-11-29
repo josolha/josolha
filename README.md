@@ -47,10 +47,10 @@
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
 <div align=center>
-	<a href="https://yermi.co.kr"><img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white"/></a> 
+	<a href="https://www.notion.so/RESUME-4493f0d9a8dc4b7180bb3fc575866242?pvs=4"><img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white"/></a> 
 	<a href="https://josolha.tistory.com"><img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white"/></a>
 	<a href="mailto:josolha@naver.com"><img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white"/></a>
-	<a href="https://mango-vegetarian-429.notion.site/cbd77ec48a7d4f94a324ac635dfdb720"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
+	<!-- <a href="https://mango-vegetarian-429.notion.site/cbd77ec48a7d4f94a324ac635dfdb720"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a> --!>
 	<br>
 </div>
 <br>
