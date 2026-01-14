@@ -4,8 +4,8 @@
 
 </div>
 <div align=center>
-	<h3>📚 Tech Stack 📚</h3>
-	<p>✨ Platforms & Languages ✨</p>
+	<h3> Tech Stack </h3>
+	<p> Platforms & Languages </p>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
@@ -25,7 +25,7 @@
 </div>
 <br>
 <div align=center>
-	<p>🛠 Tools 🛠</p>
+	<p> Tools </p>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
@@ -44,7 +44,7 @@
 
 <br>
 <div align=center>
-	<p>🎨 SNS & Portfolio 🎨</p>
+	<p> SNS & Portfolio </p>
 </div>
 <div align=center>
 	<a href="https://www.notion.so/RESUME-4493f0d9a8dc4b7180bb3fc575866242?pvs=4"><img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white"/></a> 
@@ -55,8 +55,9 @@
 </div>
 <br>
 
-<div align=center>
+<!-- <div align=center>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josolha&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=josolha&show_icons=true"> 
 <br>
 </div>
+--!>
